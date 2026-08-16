@@ -1,4 +1,4 @@
-##🎓 University Course Management System
+#🎓 University Course Management System
 
 ##📌 About the Project
 
@@ -39,4 +39,4 @@ The Sufi Institute (Luari Sharif)
 
 ---
 
-##⭐ If you found this project useful, please consider giving it a star.
+⭐ If you found this project useful, please consider giving it a star.
