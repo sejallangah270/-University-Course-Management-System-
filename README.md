@@ -1,12 +1,12 @@
-🎓 University Course Management System
+##🎓 University Course Management System
 
-📌 About the Project
+##📌 About the Project
 
 This is a simple Java-based University Course Management System developed to practice Object-Oriented Programming concepts.
 
 The project manages students, instructors, courses, and student enrollments through a simple console-based system.
 
-✨ Features
+##✨ Features
 
 - Add and view students
 - Add and view instructors
@@ -15,7 +15,7 @@ The project manages students, instructors, courses, and student enrollments thro
 - Display enrollment information
 - Simple menu-driven interface
 
-🛠️ Technologies Used
+##🛠️ Technologies Used
 
 _ Java
 - Object-Oriented Programming
@@ -25,18 +25,18 @@ _ Java
 - ArrayList
 - Methods
 
-🎯 Purpose
+##🎯 Purpose
 
 This project is part of my Java learning journey and helped me practice programming concepts by building a practical university management system.
 
-👩‍💻 Developer
+##👩‍💻 Developer
 
 Sejal Langah
 BS Information Technology Student
 The Sufi Institute (Luari Sharif)
 
-Instructor: Maim Chandni Talpur
+##Instructor: Maim Chandni Talpur
 
 ---
 
-⭐ If you found this project useful, please consider giving it a star.
+##⭐ If you found this project useful, please consider giving it a star.
